@@ -1,0 +1,4 @@
+{
+    "base_model": "google-bert/bert-base-uncased",
+    "output_dir": "folder"
+}
